@@ -3,19 +3,19 @@
         {
             "title": "My new website",
             "body": "lorem ipsum...",
-            "autor": "Mario",
+            "author": "Mario",
             "id": 1
         },
         {
             "title": "My new blog",
             "body": "lorem ipsum...",
-            "autor": "Mario",
+            "author": "Mario",
             "id": 2
         },
         {
             "title": "My new test",
             "body": "lorem ipsum...",
-            "autor": "Mario",
+            "author": "Mario",
             "id": 3
         }
     ]
