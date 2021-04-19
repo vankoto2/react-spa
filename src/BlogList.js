@@ -8,7 +8,7 @@ const BlogList = ({ blogs, handleDelete }) => {
                 <div className="blog-preview" key={blog.id}>
                     <Link to={`/blog/${blog.id}`}>
                     <h2>{blog.title}</h2>
-                    <p>Writen by {blog.author}</p>
+                    <p>Programing language: {blog.language}</p>
                     </Link>
                 </div>
             ))}

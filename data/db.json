@@ -1,22 +1,48 @@
 {
-    "blogs": [
-        {
-            "title": "My new website",
-            "body": "lorem ipsum...",
-            "author": "Mario",
-            "id": 1
-        },
-        {
-            "title": "My new blog",
-            "body": "lorem ipsum...",
-            "author": "Mario",
-            "id": 2
-        },
-        {
-            "title": "My new test",
-            "body": "lorem ipsum...",
-            "author": "Mario",
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "теср",
+      "body": "фечфде",
+      "author": "Java",
+      "color": "#4400ff",
+      "id": 6
+    },
+    {
+      "title": "Title",
+      "body": "text",
+      "language": "JavaScript",
+      "color": "#f0f3f5",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "title": "Title",
+      "body": "text",
+      "language": "JavaScript",
+      "color": "#ff0000",
+      "gender": "Male",
+      "id": 8
+    },
+    {
+      "title": "Title",
+      "body": "text",
+      "language": "TypeScript",
+      "color": "#ff0000",
+      "gender": "Male",
+      "typer": "Noob",
+      "id": 9
+    },
+    {
+      "title": "Title",
+      "body": "text",
+      "language": "JavaScript",
+      "email": "",
+      "date": "",
+      "color": "#ff0000",
+      "gender": "Male",
+      "typer": "Male",
+      "experience": 1,
+      "id": 10
+    }
+  ]
 }
