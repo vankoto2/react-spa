@@ -15,15 +15,17 @@ const BlogDetails = () => {
     }
 
     return (
-        <div className="blog-details">
+        <div  className="blog-details" >
             { isPending && <div>Loading...</div>}
             { error && <div>{error} </div>}
             { blog && (
-                <article>
-                    <h2 style={{ backgroundColor: blog.color }}>{blog.title}</h2>
+                <article style={{ borderColor:  blog.color }}>
+                    <h2>{blog.title}</h2>
                     <p>Programing language {blog.language}</p>
                     <div>{blog.body}</div>
-                    <div>{blog.gender}</div>
+                    <div>Experience: {blog.experience} years</div>
+                    <div>Email: {blog.email}</div>
+                    <div>Phone: {blog.phone}</div>
                     <button onClick={handleClick}>delete</button>
                 </article>
             )}

@@ -1,48 +1,40 @@
 {
   "blogs": [
     {
-      "title": "теср",
-      "body": "фечфде",
-      "author": "Java",
-      "color": "#4400ff",
-      "id": 6
-    },
-    {
-      "title": "Title",
-      "body": "text",
+      "title": "Creating a React Spa",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum\nnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium\noptio, eaque rerum! Provident similique accusantium nemo autem. Veritatis\nobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam\nnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,\ntenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,\nquia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos \nsapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam\nrecusandae alias error harum maxime adipisci amet laborum. Perspiciatis \nminima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit \nquibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur \nfugiat, temporibus enim commodi iusto libero magni deleniti quod quam \nconsequuntur! Commodi minima excepturi repudiandae velit hic maxime\ndoloremque. Quaerat provident commodi consectetur veniam similique ad \nearum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo \nfugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore \nsuscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium\nmodi minima sunt esse temporibus sint culpa, recusandae aliquam numquam \ntotam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam \nquasi aliquam eligendi, placeat qui corporis!",
       "language": "JavaScript",
-      "color": "#f0f3f5",
+      "email": "it.work.bulgaria@gmail.com",
+      "date": "2021-04-20",
+      "color": "#f4a4cf",
       "gender": "Male",
-      "id": 7
+      "experience": "2",
+      "phone": "+359-884-754-234",
+      "id": 4
     },
     {
-      "title": "Title",
-      "body": "text",
+      "title": "Testing",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum\nnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium\noptio, eaque rerum! Provident similique accusantium nemo autem. Veritatis\nobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam\nnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,\ntenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,\nquia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos \nsapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam\nrecusandae alias error harum maxime adipisci amet laborum. Perspiciatis \nminima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit \nquibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur \nfugiat, temporibus enim commodi iusto libero magni deleniti quod quam \nconsequuntur! Commodi minima excepturi repudiandae velit hic maxime\ndoloremque. Quaerat provident commodi consectetur veniam similique ad \nearum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo \nfugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore \nsuscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium\nmodi minima sunt esse temporibus sint culpa, recusandae aliquam numquam \ntotam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam \nquasi aliquam eligendi, placeat qui corporis!",
       "language": "JavaScript",
-      "color": "#ff0000",
+      "email": "test@abv.bg",
+      "date": "2021-04-23",
+      "color": "#a9f9ac",
       "gender": "Male",
-      "id": 8
-    },
-    {
-      "title": "Title",
-      "body": "text",
-      "language": "TypeScript",
-      "color": "#ff0000",
-      "gender": "Male",
-      "typer": "Noob",
-      "id": 9
-    },
-    {
-      "title": "Title",
-      "body": "text",
-      "language": "JavaScript",
-      "email": "",
-      "date": "",
-      "color": "#ff0000",
-      "gender": "Male",
-      "typer": "Male",
       "experience": 1,
-      "id": 10
+      "phone": "+359-884-754-234",
+      "id": 5
+    },
+    {
+      "title": "About SPA",
+      "body": "In this app you have a simple blog website.\nYou have a home and create button.\nWhen you create a new blog the blog is automatically send in the preview home screen.\nAnd we have details of each post.\nIn the create page you have validations with html required. You need to fill everything.",
+      "language": "JavaScript",
+      "email": "it.work.bulgaria@gmail.com",
+      "date": "2021-04-20",
+      "color": "#4285F4",
+      "gender": "Male",
+      "experience": "2",
+      "phone": "+359-884-754-234",
+      "id": 6
     }
   ]
 }
