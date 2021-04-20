@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to run!
 
 First you need to install the node_modules.
-Just write in the terminal 'npm install' and press Enter.
+Just write in the project directory, in the terminal 'npm install' and press Enter.
 
 ### `npm install`
 
@@ -24,7 +24,7 @@ Open a new terminal and run:
 ### `npx json-server --watch data/db.json --port 8000`
 
 Runs a Fake REST API. 
-**If you don't `npx json-server --watch data/db.json --port 8000` you will get error 'Failed to fetch'**
+**If you don't run `npx json-server --watch data/db.json --port 8000` you will get error 'Failed to fetch'**
 
 ## About SPA
 
